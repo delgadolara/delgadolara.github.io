@@ -1,0 +1,12 @@
+---
+title: Newsletters
+listing:
+  contents: .
+  sort:
+    - "date desc"
+    - "title desc"
+  type: grid
+  filter-ui: false
+  image-height: 500px
+page-layout: full
+---

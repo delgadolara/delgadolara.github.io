@@ -1,0 +1,10 @@
+---
+title: ""
+description: |
+  🖱️ CTR: 22.5%
+  <br>
+  🗁 Opening rate: 19.8%
+author: "Lara Delgado"
+draft: false
+image: news2.png
+---

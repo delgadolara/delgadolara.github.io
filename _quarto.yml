@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Lara Delgado"
+  page-footer: "Copyright 2023, Lara Delgado"
+  site-url: https://delgadolara.github.io/
+  
+  # Start of the navigation bar (top)
+  navbar:
+    background: "#3d6d9f"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Social Media
+        href: socialmedia/index.qmd
+      - text: Newsletters
+        href: newsletters/index.qmd
+      - text: Landing pages
+        href: lps/index.qmd
+        
+        
+    right:
+      - icon: envelope
+        href: "mailto:laradelgadomsilva@gmail.com"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

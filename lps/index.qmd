@@ -1,0 +1,47 @@
+---
+title: "Landing pages"
+listing:
+  contents: .
+  sort:
+    - "date desc"
+    - "title desc"
+  filter-ui: false
+page-layout: full
+---
+
+Here is a list of some selected landing pages I created. Click the link below
+each figure to access the pages.
+
+::: columns
+::: {.column width='40%'}
+
+![Access the page at <https://conhecimento.aegro.com.br/contato-demo-aegro>](lp1.png)
+
+:::
+
+::: {.column width='10%'}
+
+:::
+
+
+::: {.column width='40%'}
+
+![Access the page at <https://conhecimento.aegro.com.br/planilhas-controle-fazenda-gratis>](lp2.png)
+
+:::
+
+
+::: {.column width='40%'}
+![Access the page at <https://conhecimento.aegro.com.br/ebook-comunicacao-vendas-consultoria-rural>](lp3.png)
+:::
+
+
+::: {.column width='10%'}
+:::
+
+::: {.column width='40%'}
+![Access the page <https://conhecimento.aegro.com.br/kit-gestao-financeira-fazenda-e-uso-do-caixa>](lp4.png)
+:::
+
+:::
+

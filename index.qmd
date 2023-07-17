@@ -1,0 +1,9 @@
+---
+title: "Lara Delgado - Communication & Content"
+image: img/profile.jpeg
+about:
+    template: jolla
+---
+
+Hi, I’m Lara! I am a Content and Communication analyst, and here you can find 
+some of my most recent productions.

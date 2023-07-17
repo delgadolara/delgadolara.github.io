@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/newsletters/index.html",
+    "items": [
+      "/newsletters/news5/index.html",
+      "/newsletters/news3/index.html",
+      "/newsletters/news1/index.html",
+      "/newsletters/news4/index.html",
+      "/newsletters/news2/index.html"
+    ]
+  },
+  {
+    "listing": "/lps/index.html",
+    "items": []
+  },
+  {
+    "listing": "/socialmedia/index.html",
+    "items": []
+  }
+]
